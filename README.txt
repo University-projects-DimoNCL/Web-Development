@@ -9,3 +9,8 @@ Screnshots doc(Word)
 
 WebTechReport(RTF)
 - contains the Short essay(700 words) of my experience of the design and implementation of the website
+
+
+How to run:(Reminder)
+Look at  http://catless.ncl.ac.uk/framework/docs/installation (Installation with docker.)
+Host it on port 80 with docker and open in web browser.
