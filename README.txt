@@ -1,7 +1,7 @@
 This is the final website submission made by Dimo Dimchev.
 
 Contents:
-TrackMyWork(folder)
+TrackMyWork(folder,uploaded as rar, because its too big.)
 - contains the source (www) of the website + the SQL dump
 
 Screnshots doc(Word)
